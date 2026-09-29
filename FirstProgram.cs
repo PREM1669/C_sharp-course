@@ -8,7 +8,7 @@ namespace Myapp
     {
 
       string name = "Prem";
-      int age = 21;
+      int age = 18;
       double height = 5.9;
       bool isStudent = true;
 

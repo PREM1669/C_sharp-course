@@ -15,7 +15,7 @@ namespace Myapp
       Console.WriteLine($"Name: {name}");
       Console.WriteLine($"Age: {age}");
       Console.WriteLine($"Height: {height}");
-      Console.WriteLine($"Student: {isStudent}");
+      Console.WriteLine($"Are you a Student: {isStudent}");
   }
  }
 }

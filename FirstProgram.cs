@@ -201,7 +201,9 @@ namespace Myapp
 // Methods.show();
 
 // Loops.show();
-NumberGuessingGame.show();
+// NumberGuessingGame.show();
+// RockScissors.show();
+Calculator.show();
    }
  }
 }
